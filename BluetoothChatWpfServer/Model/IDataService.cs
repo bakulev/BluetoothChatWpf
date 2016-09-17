@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 
-namespace BluetoothChatWpf.Model
+namespace BluetoothChatWpfServer.Model
 {
     public interface IDataService
     {

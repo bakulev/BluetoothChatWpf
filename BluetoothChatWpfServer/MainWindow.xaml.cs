@@ -1,7 +1,7 @@
 ﻿using System.Windows;
-using BluetoothChatWpf.ViewModel;
+using BluetoothChatWpfServer.ViewModel;
 
-namespace BluetoothChatWpf
+namespace BluetoothChatWpfServer
 {
     /// <summary>
     /// Interaction logic for MainWindow.xaml

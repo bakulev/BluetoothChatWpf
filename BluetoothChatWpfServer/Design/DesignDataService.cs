@@ -1,7 +1,7 @@
 ﻿using System;
-using BluetoothChatWpf.Model;
+using BluetoothChatWpfServer.Model;
 
-namespace BluetoothChatWpf.Design
+namespace BluetoothChatWpfServer.Design
 {
     public class DesignDataService : IDataService
     {

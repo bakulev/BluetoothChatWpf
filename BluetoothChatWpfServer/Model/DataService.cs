@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace BluetoothChatWpf.Model
+namespace BluetoothChatWpfServer.Model
 {
     public class DataService : IDataService
     {

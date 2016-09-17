@@ -1,7 +1,7 @@
 ﻿using GalaSoft.MvvmLight;
-using BluetoothChatWpf.Model;
+using BluetoothChatWpfClient.Model;
 
-namespace BluetoothChatWpf.ViewModel
+namespace BluetoothChatWpfClient.ViewModel
 {
     /// <summary>
     /// This class contains properties that the main View can data bind to.

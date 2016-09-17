@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace BluetoothChatWpf.Properties
+namespace BluetoothChatWpfClient.Properties
 {
 
 
