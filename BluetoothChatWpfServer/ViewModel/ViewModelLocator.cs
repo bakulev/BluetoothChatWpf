@@ -13,6 +13,7 @@ using GalaSoft.MvvmLight;
 using GalaSoft.MvvmLight.Ioc;
 using Microsoft.Practices.ServiceLocation;
 using BluetoothChatWpfServer.Model;
+using BluetoothChatWpfServer.Services;
 
 namespace BluetoothChatWpfServer.ViewModel
 {
@@ -38,6 +39,7 @@ namespace BluetoothChatWpfServer.ViewModel
                 SimpleIoc.Default.Register<IDataService, DataService>();
             }
 
+            SimpleIoc.Default.Register<IBtChatListener, BtChatListener>();
             SimpleIoc.Default.Register<MainViewModel>();
         }
 
